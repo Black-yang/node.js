@@ -1,5 +1,5 @@
 const fs=require('fs');//使用require来导入模块
-const path = require('path');
+// const path = require('path');
 // 读取文件
 // fs.readFile('./file/a.txt','utf-8',(err,data)=>{
 // if(err)return console.log(err.message)
